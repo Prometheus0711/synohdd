@@ -22,4 +22,4 @@
 0x1e49="ZHITAI"
 0x1e4b="FIKWOT"
 0x1f40="Netac"
-0x1B96="WesternDigital"
+0x1058="WDC"
